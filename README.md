@@ -1,3 +1,3 @@
 # Just learning
 
-Some Stuff.
+some stuff.
